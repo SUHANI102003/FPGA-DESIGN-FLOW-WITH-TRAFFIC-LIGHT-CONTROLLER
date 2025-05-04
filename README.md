@@ -29,10 +29,15 @@ This project implements a Finite State Machine (FSM)-based traffic light control
 
 ## Project Structure
 ├── rtl/ # Verilog files for FSM and top-level module
+
 ├── constraints/ # XDC constraints file for FPGA board pin mapping
+
 ├── simulation/ # Testbenches and waveform outputs
+
 ├── bitstream/ # Generated bitstream file
+
 ├── README.md # Project documentation
+
 
 
 ## How to Use
