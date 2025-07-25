@@ -39,15 +39,6 @@ This project implements a Finite State Machine (FSM)-based traffic light control
 ├── README.md # Project documentation
 
 
-
-## How to Use
-
-1. Clone the repository and open the project in **Vivado**.
-2. Add the Verilog source and constraints files to a new project.
-3. Run **synthesis**, **implementation**, and **bitstream generation**.
-4. Upload the bitstream to the **Boolean FPGA board**.
-5. Observe traffic light behavior through onboard LEDs.
-
 ## License
 
 This project is licensed under the MIT License.
