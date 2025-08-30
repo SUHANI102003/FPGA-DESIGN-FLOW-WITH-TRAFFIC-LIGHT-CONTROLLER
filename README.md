@@ -1,4 +1,4 @@
-# 🚦 FPGA Design Flow with Traffic Light Controller  
+<h1 align="center">🚦 FPGA Design Flow with Traffic Light Controller</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HDL-Verilog-blue.svg" />
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   <img src="https://img.shields.io/badge/Status-Completed-success.svg" />
 </p>
----
+
 
 ## 📌 Overview  
 
