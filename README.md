@@ -22,19 +22,17 @@ This project implements a Finite State Machine (FSM)-based traffic light control
 - **Boolean FPGA Board** – for hardware verification and real-time testing.
 
 ## Design Details
-
+### BLOCK DIAGRAM
 ![](https://github.com/SUHANI102003/FPGA-DESIGN-FLOW-WITH-TRAFFIC-LIGHT-CONTROLLER/blob/main/assets/images/Screenshot%202025-08-03%20052922.png)
 
-- Each state represents a specific traffic flow combination (e.g., North-South green, East-West red, etc.).
-- State transitions are governed by a timing counter.
-- LED outputs used on the FPGA board to represent traffic lights for each direction.
+
 
 ## Project Structure
 ```
 ├── rtl/ # Verilog files for FSM and top-level module
 ├── constraints/ # XDC constraints file for FPGA board pin mapping
 ├── simulation/ # Testbenches and waveform outputs
-├── bitstream/ # Generated bitstream file
+├── assets / # Documents and images
 ├── README.md # Project documentation
 ```
 
