@@ -1,10 +1,11 @@
 # 🚦 FPGA Design Flow with Traffic Light Controller  
 
-[![Verilog](https://img.shields.io/badge/HDL-Verilog-blue.svg)]()  
-[![Vivado](https://img.shields.io/badge/EDA-Xilinx%20Vivado-brightgreen.svg)]()  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HDL-Verilog-blue.svg" />
+  <img src="https://img.shields.io/badge/EDA-Xilinx%20Vivado-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  <img src="https://img.shields.io/badge/Status-Completed-success.svg" />
+</p>
 ---
 
 ## 📌 Overview  
