@@ -77,7 +77,7 @@ This project is licensed under the **MIT License** – free to use and modify.
 ## 🙌 Contributing  
 
 Feel free to **fork this repo**, suggest improvements, or open issues.  
-If you’d like to add new features (like pedestrian signals or sensor-based adaptive timing), contributions are welcome!  
+If you’d like to add new features, contributions are welcome!  
 
 ---
 
