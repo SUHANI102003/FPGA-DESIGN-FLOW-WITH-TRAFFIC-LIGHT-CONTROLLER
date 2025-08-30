@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-This project implements a Finite State Machine (FSM)-based traffic light controller designed to manage a 4-way road intersection. The system cycles through **8 traffic states with right-turn handling**, ensuring an organized and time-efficient control of vehicle movement in all directions. It is ideal for use in traffic simulation and embedded system applications.
+This project implements a Finite State Machine (FSM)-based traffic light controller designed to manage a 4-way road intersection with right turn handling. The system cycles through **8 traffic states with right-turn handling**, ensuring an organized and time-efficient control of vehicle movement in all directions. It is ideal for use in traffic simulation and embedded system applications.
 
 ## FEATURES
 
