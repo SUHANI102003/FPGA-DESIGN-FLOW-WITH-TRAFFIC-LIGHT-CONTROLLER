@@ -15,12 +15,6 @@ This project implements a Finite State Machine (FSM)-based traffic light control
   - Bitstream Generation
 - Real-time hardware testing on a **Boolean FPGA board**.
 
-## TOOLS & TECHNOLOGIES
-
-- **Xilinx Vivado Design Suite** – for the full FPGA development flow.
-- **Verilog HDL** – for FSM implementation.
-- **Boolean FPGA Board** – for hardware verification and real-time testing.
-
 ## DESIGN DETAILS
 
 ### BLOCK DIAGRAM
@@ -39,6 +33,12 @@ This project implements a Finite State Machine (FSM)-based traffic light control
 ├── README.md # Project documentation
 ```
 
+## TOOLS & TECHNOLOGIES
+
+- **Xilinx Vivado Design Suite** – for the full FPGA development flow.
+- **Verilog HDL** – for FSM implementation.
+- **Boolean FPGA Board** – for hardware verification and real-time testing.
+  
 ## License
 
 This project is licensed under the MIT License.
