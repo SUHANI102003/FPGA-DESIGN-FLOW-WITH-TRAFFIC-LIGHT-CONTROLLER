@@ -18,7 +18,7 @@ This project implements a Finite State Machine (FSM)-based traffic light control
 ## DESIGN DETAILS
 
 ### BLOCK DIAGRAM
-  <img src="https://github.com/SUHANI102003/FPGA-DESIGN-FLOW-WITH-TRAFFIC-LIGHT-CONTROLLER/blob/main/assets/images/Screenshot%202025-08-03%20052922.png" width="600"/>
+
 
 
 
