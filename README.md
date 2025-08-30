@@ -35,6 +35,10 @@ The controller cycles through **8 distinct traffic states**, ensuring smooth, ti
 ### 🔹 Block Diagram  
 <img width="800" alt="Block Diagram" src="https://github.com/user-attachments/assets/fddd13b0-c79f-4c64-9683-acee73e6f283" />  
 
+### 🔹 Simulation Waveform
+
+<img width="800" alt="FSM Diagram" src="https://github.com/SUHANI102003/FPGA-DESIGN-FLOW-WITH-TRAFFIC-LIGHT-CONTROLLER/blob/main/assets/Screenshot%202025-08-30%20222149.png" />  
+
 ---
 
 ## 📂 Project Structure  
